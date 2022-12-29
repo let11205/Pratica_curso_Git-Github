@@ -25,5 +25,5 @@ _Este é um site para a **empresa X**_
 
 ## __Links interessantes__
 
-[Link do google](https://google.com)
-contribuidor: https://github.com/let11205
+[Link do google](https://www.google.com)
+contribuidor: https://www.github.com/let11205
