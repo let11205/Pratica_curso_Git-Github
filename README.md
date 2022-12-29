@@ -17,4 +17,4 @@ _Este é um site para a **empresa X**_
 
 ## __Imagem com link externo__
 
-![Imagem_link_externo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APHP_Logo.png&psig=AOvVaw3UU2DdmwluubKE7mEuFFjt&ust=1672415725387000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLDw8eWYn_wCFQAAAAAdAAAAABAI)
+![Imagem_link_externo](https://www.cleanpng.com/png-logo-brand-font-python-5693446/preview.html)
