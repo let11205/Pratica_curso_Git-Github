@@ -17,4 +17,4 @@ _Este é um site para a **empresa X**_
 
 ## __Imagem com link externo__
 
-![Imagem_link_externo](https://www.cleanpng.com/png-logo-brand-font-python-5693446/preview.html)
+![Imagem externa](imagens/imagem%20local.jpg)
