@@ -2,4 +2,15 @@
 Este é um site para a **empresa X**
 
 ## __Funcionalidades__
-_Home, página contato, página sobre nós, carrinho e Login_
+1. _Home, 
+2. página contato, 
+3. página sobre nós, 
+4. carrinho 
+5. Login_
+
+## __Linguagens utiliadas__
+
+* _HTML
+* CSS
+* JS
+* PHP_
