@@ -8,9 +8,13 @@ _Este é um site para a **empresa X**_
 4. carrinho 
 5. Login
 
-## __Linguagens utiliadas__
+## __Linguagens utilizadas__
 
 * HTML
-* CSSlllllllllllll
+* CSS
 * JS
 * PHP
+
+## __Imagem com link externo__
+
+![Imagem_link_externo](image.png)
