@@ -8,4 +8,4 @@ Home, sobre nós, carrinho, contato, login
 
 ### Dica para melhorias
 
-botão login e Hovers
+botão login e Hovers.
