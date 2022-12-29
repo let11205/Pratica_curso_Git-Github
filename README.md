@@ -44,3 +44,10 @@ function exercicio_git(a,b){
 exercicio_git(3,5)
 
 ```
+
+## Listas de tarefas a fazer
+
+- [x] Rodapé do site
+- [x] Menu lateral
+- [ ] Integração com o Javascript
+- [ ] Integração com o banco de dados 
