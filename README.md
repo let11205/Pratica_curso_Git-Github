@@ -31,4 +31,13 @@ _Este é um site para a **empresa X**_
 
 contribuidor: https://www.github.com/let11205
 
-![Inserindo link como imagem](imagens/imagem%20local.jpg)](https://www.google.com)
+```Javascript
+function exercicio_git(a,b){
+
+    return a + b
+
+}
+
+exercicio_git(3,5)
+
+```
