@@ -15,6 +15,10 @@ _Este é um site para a **empresa X**_
 * JS
 * PHP
 
-## __Imagem com link externo__
+## __Imagem local__
 
-![Imagem externa](imagens/imagem%20local.jpg)
+![Imagem local](imagens/imagem%20local.jpg)
+
+## __Imagem Externa__
+
+![Imagem link externo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png)
